@@ -1,0 +1,72 @@
+Batch 64-65 online platforms
+        direct applies
+        aws
+        Header:
+        name                                 address
+        last title: QA Engineer              email
+                Test Automation Engineer     phone
+                    SDET                     linkedIn
+        objective: I have been involved in UI and Backend automation development for functional tests; smoke test, regression and End to End test. I like collaboration and communication to produce quality products as a team.
+        detail oriented
+        collaboration
+        communication
+        out of the box
+        quick learner
+        good searcher
+        meeting the deadlines
+        Technical skills:
+        languages: Java, HTML, SQL, Python
+        frameworks: JUnit, TestNG, Cucumber BDD and Page Object model
+        Testing tools: Selenium Web Driver, Restful API, Postman, Maven, JDBC, Git and GitHub, Appium, Jira, Jira X-ray, Selenium Grid
+        CI/CD tools: Jenkins and AWS
+        IDEs: Eclipse, IntelliJ, VS Code
+        environments: Agile, Waterfall, Scrum team
+        testing types: functional testing, smoke test, regression test, End to End test and UA test.
+        professional experience:
+        client: MTD Bank, New York City, NY             Aug 2021 - Present
+        title: SDET
+        - I have been involved in Swift platform where we manage the national and international transactions on a secure system. This is a finacial domain where we do test automation development.
+        - Developed and maintained Cucumber BDD framework using Page Object model design along with Java programming language, Selenium Web Driver, Maven and Restful Api.
+        - Manipulated the data using Object mapper and GSON for serialization and deserialization using Restful Api and postman.
+        - Involved in functional testing; smoke test, regression test and End to End test.
+        - Experienced git and GitHub for version control and collaboration with other team-mates.
+        - Used Jira as project management tool.
+        - Participated Scrum ceremonies; Grooming, Sprint planning, Daily stand-ups, Sprint review and retros.
+        -Used Jenkins and AWS for CI/CD.
+        client: Medunna Health group, New York City, NY             Jan 2020 - Aug 2021
+        title: QA Engineer / QA Analyst
+        - I have been involved in health laboratory management systems where we manage the patient information on a secure system. This is a health domain where we do test automation development.
+        - Created and maintained TestNG framework using Page Object model design along with Java programming language, Selenium Web Driver, Maven , SQL and JDBC.
+        - Used Selenium web driver for UI automation testing.
+        - Expertised database testing using SQL and JDBC based on RDBMS.
+        - Involved in functional testing; smoke test, regression test and End to End test.
+        - Experienced git and GitHub for version control and collaboration with other team-mates.
+        - Used Jira as project management tool.
+        - Participated Scrum ceremonies; Grooming, Sprint planning, Daily stand-ups, Sprint review and retros.
+        -Used Jenkins and AWS for CI/CD.
+        Educational background:
+        Bachelor's degree, Maths ... University(optional), city and state(optional)
+        Certifications:
+        OCA, Scrum master
+        Volunteer activities:
+        ....
+        coverage:
+        cloud
+        resume prep
+        interviews overlook
+        LinkedIN:
+        1. profile picture
+        2. background picture
+        3. top skills added
+        4. endorsements about your skills ()
+        5. upload resume
+        6. do not conflict your resume with linkedIN
+        Emine Keskin
+        Emily
+        monster, dice, career builder, xing, zip recruiter, glassdoor
+        Automation tester
+        SDET postions
+        QA Engineer positions
+        QA Analyst
+        Manual tester
+        Full stack automation tester
